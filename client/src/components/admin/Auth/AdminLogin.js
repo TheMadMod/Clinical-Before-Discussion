@@ -6,7 +6,7 @@ import "./AdminLogin.css";
 import logo from "./Auth-public/logo.png";
 import admlogo from "./Auth-public/admlogo.png";
 import Carousel from 'react-bootstrap/Carousel';
-import user_booking from "./Auth-public/logo.png";
+import user_booking from "./Auth-public/User booking.png";
 import user_dashboard from "./Auth-public/User Dashboard.png";
 import user_report from "./Auth-public/User View Report.png";
 
